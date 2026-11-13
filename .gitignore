@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.idea/
+.vscode/
+.env
+.env.*
+code/dataset/
+code/output/
+code/outputs/
+code/logs/
+code/saved_models/
+*.pt
+*.pth
+*.ckpt

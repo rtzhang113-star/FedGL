@@ -1,0 +1,6 @@
+# Verified GPU stack: PyTorch 2.1.2, CUDA 12.1, DGL 2.2.1+cu121
+torch>=2.1,<2.2
+dgl>=2.0
+numpy>=1.26,<2
+pandas>=2.2
+matplotlib>=3.8
